@@ -1,3 +1,5 @@
+<img width="327" height="411" alt="1773530135458" src="https://github.com/user-attachments/assets/3d928fec-bb86-4d3e-9c72-0552be3f9d96" />
+
 # 🛰️ WirelessUSB
 
 > Transfer files between your Android phone and PC over WiFi — no cables needed.
@@ -14,7 +16,7 @@
 
 | Stopped | Running |
 |---|---|
-| ![stopped](#) | ![running](#) |
+| ![Screenshot_20260315_044624_wirelessUSB](https://github.com/user-attachments/assets/c472fcc2-b937-4266-ad65-ea2860dff4fc) | ![Screenshot_20260315_044643_wirelessUSB](https://github.com/user-attachments/assets/dd07cb12-4d6a-44f2-ad86-26ccf9211659) |
 
 ---
 
@@ -55,4 +57,35 @@
 3. Set username & password
 4. Tap **Start Server**
 5. On PC open **File Explorer**
-6. Type in address bar:
+6. Type in address bar:ftp://192.168.x.x:2221
+7. Enter credentials → Browse files freely ✅
+
+---
+
+## 🔧 Build from Source
+
+
+# Clone karo
+```brash
+git clone https://github.com/YOUR_USERNAME/WirelessUSB.git
+```
+# Android Studio mein open karo
+# Run karo ▶️
+Requirements:
+
+Android Studio Hedgehog+
+
+Min SDK: Android 8.0 (API 26)
+
+Target SDK: Android 14 (API 34)
+📁 Project Structure
+```brash
+com.example.wirelessusb/
+├── MainActivity.kt           # Main UI
+├── FtpServerManager.kt       # FTP Server logic
+├── FtpForegroundService.kt   # Background service
+├── QrCodeGenerator.kt        # QR Code generator
+├── Win98Components.kt        # Retro UI components
+└── ui/theme/
+    └── Theme.kt              # Win98 color theme
+```
