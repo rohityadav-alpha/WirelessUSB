@@ -33,7 +33,7 @@
 
 ## 🚀 Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/YOUR_USERNAME/WirelessUSB/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/rohityadav-alpha/WirelessUSB/releases/latest)
 
 ---
 
