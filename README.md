@@ -1,4 +1,4 @@
-<img width="327" height="411" alt="1773530135458" src="https://github.com/user-attachments/assets/3d928fec-bb86-4d3e-9c72-0552be3f9d96" />
+<img width="327" height="411" alt="17735301354581" src="https://github.com/user-attachments/assets/d7a0104c-8cb4-4a5f-bf4a-5f5ea57605d6" />
 
 # 🛰️ WirelessUSB
 
