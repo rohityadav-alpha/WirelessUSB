@@ -19,6 +19,9 @@
 | ![Screenshot_20260315_044624_wirelessUSB](https://github.com/user-attachments/assets/c472fcc2-b937-4266-ad65-ea2860dff4fc) | ![Screenshot_20260315_044643_wirelessUSB](https://res.cloudinary.com/dzemzfh9o/image/upload/v1773559934/Screenshot_20260315_044643_wirelessUSB_bixr0q.jpg) |
 
 ---
+## PC view
+| ![Screenshot_20260315_044624_wirelessUSB](https://res.cloudinary.com/dzemzfh9o/image/upload/v1773563508/Screenshot_2026-03-15_135713_irrmfh.png)
+---
 
 ## ✨ Features
 
