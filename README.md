@@ -93,19 +93,17 @@ com.example.wirelessusb/
     └── Theme.kt              # Win98 color theme
 ```
 ## Downloads
-- `Android`
-```brash
-https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/wirelessUSB.apk
-```
-- `Window`
-```brash
-https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/Penless-Setup.exe
-```
-
 Latest releases are in the **Releases** section.
 
 - `WirelessUSB.apk` – Android app (HTTP + FTP).
 - `Penless-Setup.exe` – Windows app (HTTP).
+
+| Platform | File | Download |
+|----------|------|----------|
+| Android | `WirelessUSB.apk` | [⬇ Download](https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/wirelessUSB.apk) |
+| Windows | `Penless-Setup.exe` | [⬇ Download](https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/Penless-Setup.exe) |
+
+
 ---
 ## Important
 
