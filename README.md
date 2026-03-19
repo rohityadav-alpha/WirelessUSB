@@ -70,7 +70,7 @@
 
 # Clone karo
 ```brash
-git clone https://github.com/YOUR_USERNAME/WirelessUSB.git
+git clone https://github.com/rohityadav-alpha/WirelessUSB.git
 ```
 # Android Studio mein open karo
 # Run karo ▶️
@@ -92,3 +92,63 @@ com.example.wirelessusb/
 └── ui/theme/
     └── Theme.kt              # Win98 color theme
 ```
+## Downloads
+- `Android`
+```brash
+https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/wirelessUSB.apk
+```
+- `Window`
+```brash
+https://github.com/rohityadav-alpha/WirelessUSB/releases/download/v1.0/Penless-Setup.exe
+```
+
+Latest releases are in the **Releases** section.
+
+- `WirelessUSB.apk` – Android app (HTTP + FTP).
+- `Penless-Setup.exe` – Windows app (HTTP).
+---
+## Important
+
+Both apps do the **same job**: wireless file transfer.  
+Install **only one**:
+
+- Use **`WirelessUSB.apk`** if you want everything from your **Android phone**.
+- Use **`Penless-Setup.exe`** if you want everything from your **Windows PC**.
+
+> **Note (FTP recommended use):**  
+> FTP works best when your **PC is connected to your mobile hotspot**.  
+> In this setup, the phone is the hotspot and the PC connects to that hotspot Wi‑Fi.
+---
+## How to use – Android (`WirelessUSB.apk`)
+
+1. Connect your phone and PC to the **same network**  
+   - Best for FTP: make your **phone a hotspot** and connect the PC to that hotspot.
+2. Open the Android app → it shows **IP:PORT** values, for example:  
+   - HTTP: `http://192.168.1.5:8080`  
+   - FTP: `ftp://192.168.1.5:2121`
+3. On your PC:
+   - **Browser (HTTP):** open Chrome/Edge and paste the `http://IP:PORT` URL to upload/download files via web UI.
+   - **File Explorer (FTP):** open File Explorer, type `ftp://IP:PORT` in the address bar, press Enter, and manage files like a normal folder.
+---
+## How to use – Windows (`Penless-Setup.exe`)
+
+1. Install `Penless-Setup.exe` on your PC and open the app.
+2. Make sure your phone is on the **same Wi‑Fi** as your PC.
+3. In the Windows app, check the **server address** (example: `http://192.168.1.10:8080`).
+4. On your phone, open any browser and enter that `http://IP:PORT` address.
+5. Use the web page on your phone to upload and download files from the PC wirelessly.
+---
+## UPCOMING FEATURES FOR NEW ANDROID VERSION 
+
+<!--StartFragment--><html><head></head><body>
+Feature | v1.0 | v2.0
+-- | -- | --
+FTP Server | Yes | Yes
+HTTP Browser Server | No | Yes
+Dual QR Code | No | Yes
+Connection Log | No | Yes
+Copy / Share URL | No | Yes
+WiFi Warning | No | Yes
+App Crash on Stop | Yes | Fixed
+
+</body></html><!--EndFragment-->
